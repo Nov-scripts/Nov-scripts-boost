@@ -1,4 +1,4 @@
--- Boost Panel UI (Lancelot Boost Only)
+-- Boost Panel UI (Nov-scripts boost)
 
 -- Services
 local Players = game:GetService("Players")
